@@ -1,7 +1,5 @@
 " Enable syntax
-if has("syntax")
-  syntax on
-endif
+syntax on
 
 " Enable line number
 set number
