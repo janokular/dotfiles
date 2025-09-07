@@ -4,5 +4,5 @@ syntax on
 " Enable line number
 set number
 
-" Enable line ruler 
+" Enable ruler 
 set ruler
