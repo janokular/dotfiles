@@ -1,9 +1,10 @@
 # User prompt
 PS1="%n@%m %1~ $ "
 
-# Environment variables
+# Environment variable
 export HOMEBREW_NO_EMOJI=1
 
 # Aliases
 alias ls="ls --color"
 alias tree="tree -C --charset=ascii"
+alias grep="grep --color"
